@@ -1,0 +1,81 @@
+html {
+ height: 100%;
+}
+
+body {
+ width: 800px;
+ margin: 0 auto;
+ padding-top: 5px;
+ height: 100%
+}
+
+header {
+ background-color: black;
+ color: gold;
+ text-align: center;
+ padding: 5px;
+ font-size: 20px;
+ display: block;
+ width: 790px;
+}
+
+nav {
+ line-height: 30px;
+ background-color: black;
+ color: gold;
+}
+
+li a {
+ color: gold;
+}
+
+h2 {
+ background-color: black;
+ color: gold;
+ padding: 5px;
+ padding-left: 10px;
+}
+
+h4 {
+ padding-left: 25px;
+}
+
+img {
+ width: 800px;
+ height: 325px;
+}
+
+p1 {
+ padding-top: 10px;
+ padding-bottom: 10px;
+ padding-left: 50px;
+}
+
+p2 {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 50px;
+}
+
+p3 {
+  padding-top: 10px;
+  padding-bottom: 30px;
+  padding-left: 50px;
+}
+
+body {
+ font-family: georgia;
+}
+
+.sidenav {
+ height: 100%;
+ width: 100px;
+ position: fixed;
+ z-index: 1;
+ top: 0;
+ left: 0;
+ background-color: #111;
+ overflow-x: hidden;
+ padding-top: 20px;
+ padding-left: 30px;
+}
